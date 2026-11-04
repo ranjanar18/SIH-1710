@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Database (recreated by seed_data.py)
+*.db
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Environment and editor files
+.env
+.vscode/
